@@ -1,3 +1,247 @@
-#EXTINF:-1 ,Cartoon Network
+Sky Movies Sci-Fi,
 
-http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8
+http://baltak.com/iptv/tv21.m3u8
+
+Sky Movies Premiere,
+
+Sky Movies Drama,
+
+http://baltak.com/iptv/tv20.m3u8
+Sky Movies Family,
+http://baltak.com/iptv/tv19.m3u8
+http://baltak.com/iptv/tv18.m3u8
+
+http://baltak.com/iptv/tv15.m3u8
+
+Sky Movies Crime,
+http://baltak.com/iptv/tv17.m3u8
+Sky Movies Comedy,
+http://baltak.com/iptv/tv16.m3u8
+Sky Movies Action,
+
+#EXTINF: -1 ,. Sky Arts 1 UK
+
+#EXTINF: -1 ,. Sky Living UK
+http://baltak.com/iptv/tv1.m3u8
+#EXTINF: -1 ,. Sky Atlantic UK
+http://baltak.com/iptv/tv2.m3u8
+
+#EXTINF: -1 ,. National Geographic Channel UK
+
+http://baltak.com/iptv/tv3.m3u8
+#EXTINF: -1 ,. Sky 2 UK
+http://baltak.com/iptv/tv4.m3u8
+#EXTINF: -1 ,. Sky 1 UK
+http://baltak.com/iptv/tv5.m3u8
+
+#EXTINF: -1 ,. MTV Hits
+
+http://baltak.com/iptv/tv6.m3u8
+#EXTINF: -1 ,. Nat Geo Wild UK
+http://baltak.com/iptv/tv7.m3u8
+#EXTINF: -1 ,. MTV Music UK
+http://baltak.com/iptv/tv8.m3u8
+
+http://baltak.com/iptv/tv12.m3u8
+
+http://baltak.com/iptv/tv9.m3u8
+
+#EXTINF: -1 ,. ITV4 UK
+http://baltak.com/iptv/tv10.m3u8
+#EXTINF: -1 ,. ITV3 UK
+http://baltak.com/iptv/tv11.m3u8
+#EXTINF: -1 ,. ITV2 UK
+#EXTINF: -1 ,. ITV1 UK
+
+http://93.184.221.133/00573D/1341/1341-0.m3u8
+
+http://baltak.com/iptv/tv13.m3u8
+#EXTINF: -1 ,. CBS Drama UK
+http://baltak.com/iptv/tv14.m3u8
+# EXTINF: 0, BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+#EXTINF: 0, Viasat Sport
+#EXTINF: 0.3 Sport 1
+
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+
+http://93.184.221.133/00573D/236/236-0.m3u8
+#EXTINF: 0.3 Sports
+http://93.184.221.133/00573D/837/837-0.m3u8
+#EXTINF: 0, Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+#EXTINF: 0, Eurosport 2
+#EXTINF: 0, Sky Sports News
+
+#EXTINF: 0, DISCOVERY EUROPE
+
+http://93.184.221.133/00573D/183/183-0.m3u8
+#EXTINF: 0, Viasat Golf (1)
+http://93.184.221.133/00573D/204/204-0.m3u8
+#EXTINF: 0, Viasat Golf (2)
+http://93.184.221.133/00573D/911/911-0.m3u8
+#EXTINF: 0, EURONEWS
+http://93.184.221.133/00573D/346/346-0.m3u8
+
+#EXTINF: 0, FOX SPORTS 1 HD
+
+http://93.184.221.133/00573D/1347/1347-0.m3u8
+#EXTINF: 0, DISCOVERY HISTORY
+http://93.184.221.133/00573D/1348/1348-0.m3u8
+#EXTINF: 0, C-MORE
+http://93.184.221.133/00573D/1460/1460-0.m3u8
+#EXTINF: 0, NAT GEO
+http://93.184.221.133/00573D/338/338-0.m3u8
+
+#EXTINF: 0, BT SPORTS 2 HD
+
+rtmp: //109.200.1.82: 1935 / tes / foxsports1.stream? e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF: 0, FOX SPORTS 1 HD
+rtmp: //109.200.1.82: 1935 / tes / foxsports2.stream? e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF: 0, BT SPORTS 1 HD
+rtmp: //109.200.1.82: 1935 / tes / bt1.stream? e607b5b743e1842ee50e1556bbf3ae42
+
+http://baltak.com/bein6.m3u8
+
+rtmp: //109.200.1.82: 1935 / tes / bt2.stream? e607b5b743e1842ee50e1556bbf3ae42
+
+#EXTINF: 0, beINSport1HD
+http://baltak.com/bein1.m3u8
+
+#EXTINF: 0, beINSport2HD
+http://baltak.com/bein2.m3u8
+
+#EXTINF: 0, beINSport4HD
+http://baltak.com/bein4.m3u8
+
+#EXTINF: 0, beINSport5HD
+http://baltak.com/bein5.m3u8
+
+#EXTINF: 0, beINSport6HD
+
+#EXTINF: 0, beINSport7HD
+
+http://0.1.0.1:1224
+
+http://baltak.com/bein7.m3u8
+
+#EXTINF: 0, beINSport8HD
+http://baltak.com/bein8.m3u8
+
+#EXTINF: 0, beINSport9HD
+http://baltak.com/bein9.m3u8
+
+#EXTINF: 0, beINSport10HD
+http://baltak.com/bein10.m3u8
+#EXTINF: -1, [COLOR green] --- USA CHANNELS --- [/ COLOR]
+
+#EXTINF: 0, fox news
+
+http://64.100.15.201/udp/239.255.2.7:10001
+
+http://64.100.15.201/udp/239.255.2.1:10001
+#EXTINF: 0, tnt
+http://64.100.15.201/udp/239.255.2.2:10001
+#EXTINF: 0, cnn
+http://64.100.15.201/udp/239.255.2.3:10001
+#EXTINF: 0, tru tv
+http://64.100.15.201/udp/239.255.2.4:10001
+#EXTINF: 0, nlf
+http://64.100.15.201/udp/239.255.2.5:10001
+#EXTINF: 0, ngtv
+http://64.100.15.201/udp/239.255.2.6:10001
+#EXTINF: 0, sports
+#EXTINF: 0, bravo
+
+http://142.4.216.60:1935/edge/_definst_/bwbop58ixz281wv/playlist.m3u8?wowzasessionid=1419875151&xs=_we_Znphc2FiNnZ6MDJ5dWY3fDE0MTk5MTExNTF8NzIuMjcuMjE0LjMzfDU0YTE5MzRmYTllNTR8YjMwMjUzZmExNTA2YjViZjFhNDg2YjQwZjc2YWM5MWQ4ZDAzNWU0NQ
+
+http://64.100.15.201/udp/239.255.2.8:10001
+#EXTINF: 0, fx
+http://64.100.15.201/udp/239.255.2.9:10001
+#EXTINF: 0, amc
+http://64.100.15.201/udp/239.255.2.10:10001
+
+#EXTINF: -1, Showtime HD
+
+#EXTINF: -1, NFL HD
+BANDWIDTH = 220000, CODECS = ”avc1.66.30, mp4a.40.2 ″, RESOLUTION = 416 × 234
+http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_200k.m3u8
+
+#EXTINF: -1, A&E HD
+
+http://142.4.216.60:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421&xs=_we_cmp4bzhoejE3cTl3YWlxfDEzOTY4MjM0MTZ8NDkuOTMuMzcuNjN8NTM0MWM3NjgyZTY3Nnw5YWNmYzRhM2FiNjQwMmFkMmY1OGQ2YjJlOWVkMjllYTQ0MTgxODI2
+
+http://142.4.216.60:1935/edge/_definst_/tuc280rbycwnsvs/playlist.m3u8?wowzasessionid=1419880467&xs=_we_dHVjMjgwcmJ5Y3duc3ZzfDE0MTk5MTY0Njd8NzIuMjcuMjE0LjMzfDU0YTFhODEzOGZkNDR8ZmE0OGE4YmUwMTczYjU4MWVjNzUzYTg4OTQzM2I1MGE0ODYwNjQzZA
+
+#EXTINF: -1, AMC HD
+http://167.114.157.40:1935/flu555/_definst_/amc/playlist.m3u8?token=
+
+#EXTINF: -1, CNN HD
+
+#EXTINF: -1, CW HD
+http://167.114.119.209:1935/flu555/_definst_/wpix/playlist.m3u8?token=
+
+#EXTINF: -1, Discovery HD
+http://192.99.19.98:1935/flu555/_definst_/discovery/playlist.m3u8?token=
+
+#EXTINF: -1, ESPN HD
+
+http://167.114.101.188:1935/flu555/_definst_/lmn/playlist.m3u8?token=
+
+http://192.99.39.240:1935/flu555/_definst_/espn/playlist.m3u8?token=
+
+#EXTINF: -1, ESPN2 HD
+http://192.99.39.240:1935/flu555/_definst_/espn2/playlist.m3u8?token=
+
+#EXTINF: -1, FOX HD
+http://167.114.157.40:1935/flu555/_definst_/fox/playlist.m3u8?token=
+
+#EXTINF: -1, FX HD
+http://192.99.19.98:1935/flu555/_definst_/fx/playlist.m3u8?token=
+
+#EXTINF: -1, HBO EAST HD
+http://192.99.39.240:1935/flu555/_definst_/hboeast/playlist.m3u8?token=
+
+#EXTINF: -1, History Channel HD
+http://167.114.157.40:1935/flu555/_definst_/history/playlist.m3u8?token=
+
+#EXTINF: -1, Lifetime HD
+
+#EXTINF: -1, NAT GEO HD
+
+http://167.114.156.30:1935/flu555/_definst_/tnt/playlist.m3u8?token=
+
+http://192.99.39.240:1935/flu555/_definst_/natgeo/playlist.m3u8?token=
+
+#EXTINF: -1, NBA HD
+http://192.99.39.240:1935/flu555/_definst_/nbatv/playlist.m3u8?token=
+
+#EXTINF: -1, SPIKE HD
+http://142.4.216.60:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529&xs=_we_c2F4Mm1xMmFscGlybnd3fDE0MTk5MTQ1Mjl8fDU0YTFhMDgxNWFmZjd8MzUzYjhmNmNhMmM1YmJmYWMwNjY0MDdiYzUzZGUwZTM1NzBjZGM2NA
+
+#EXTINF: -1, STARZ EAST HD
+http://167.114.101.188:1935/flu555/_definst_/starzeast/playlist.m3u8?token=
+
+#EXTINF: -1, HD SYFY
+http://192.99.39.240:1935/flu555/_definst_/syfy/playlist.m3u8?token=
+
+#EXTINF: -1, TNT HD
+
+#EXTINF: -1, Tru TV HD
+
+#EXTINF: -1 VEVO 3 
+
+http://142.4.216.60:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955&xs=_we_aDVlb3ZhajFqZWVnbHVxfDE0MjAxNjA5NTV8NzIuMjcuMjE0LjMzfDU0YTU2MzFiMGExMzJ8ZTI3MjlkOTQ0NmFmYTJjMDU5NjQ5NTg5OWQwNDdmYzI5Y2VkNDRjMA
+#EXTINF: -1 VEVO 1
+http://pvr.tvip.ga/9001.m3u8
+#EXTINF: -1 VEVO 1
+http://pvr.tvip.ga/9002.m3u8
+#EXTINF: -1 VEVO 2
+http://pvr.tvip.ga/9003.m3u8
+#EXTINF: -1 VEVO 2
+http://pvr.tvip.ga/9004.m3u8
+#EXTINF: -1 VEVO 3
+
+http://pvr.tvip.ga/9005.m3u8
+
+http://pvr.tvip.ga/9006.m3u8
